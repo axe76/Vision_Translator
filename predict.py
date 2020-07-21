@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 27 11:45:37 2020
-
-@author: ACER
-"""
-
 from pickle import load
 from numpy import array
 from numpy import argmax
