@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 27 11:45:37 2020
-
-@author: ACER
-"""
-
 from text_detect import detect
 import pytesseract
 import numpy as np
