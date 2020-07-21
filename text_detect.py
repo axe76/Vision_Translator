@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 27 11:45:37 2020
-
-@author: ACER
-"""
-
 import numpy as np
 import cv2
 
@@ -66,9 +59,7 @@ def detect(path):
             
    
   
-'''_,img = detect('download.jpg')
-cv2.imshow("Text Detection", img)
-cv2.waitKey(0)'''
+
 
 
     
